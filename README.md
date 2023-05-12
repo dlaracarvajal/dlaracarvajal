@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Diego</h1>
-<h3 align="center">A full-stack developer based in Vancouver, BC</h3>
+<h3 align="center">A Full-Stack Developer based in Vancouver, BC</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaracarvajal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="dlaracarvajal" /></p>
 
 - 🤝 Seeking new opportunities and would love to collaborate on **interesting projects**
