@@ -6,7 +6,7 @@
 
 - 🌱 Expanding my skills by learning **Python**
 
-- 👨‍💻 Collaborating with [HomeChow](www.homechow.ca)
+- 👨‍💻 Collaborating with [HomeChow](https://homechow.ca)
 
 - 📫 Reach out to me at <a href="mailto:d.lara.carvajal@gmail.com">d.lara.carvajal@gmail.com</a>
 
