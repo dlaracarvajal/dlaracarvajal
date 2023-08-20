@@ -20,6 +20,7 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
 [![Languages and Tools](https://skillicons.dev/icons?i=react)](https://reactjs.org)
 [![Languages and Tools](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)
+[![Languages and Tools](https://skillicons.dev/icons?i=astro)]([https://www.adobe.com/ca/products/photoshop.html](https://astro.build/))
 [![Languages and Tools](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Languages and Tools](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
