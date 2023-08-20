@@ -6,15 +6,13 @@
 
 - 🌱 Expanding my skills by learning **Python**
 
-- 👨‍💻 Collaborating with [HomeChow](https://homechow.ca)
-
 - 📫 Reach out to me at <a href="mailto:d.lara.carvajal@gmail.com">d.lara.carvajal@gmail.com</a>
 
 - 📄 Let's connect on LinkedIn! You can find me at [https://www.linkedin.com/in/dlaracarvajal/](https://www.linkedin.com/in/dlaracarvajal/)
 
 - ⚡ Fun fact: **I used to be quite good at playing FIFA! At one point, I even had the opportunity to compete in international tournaments in countries like China, South Korea, Chile and Brazil**
 
-### Connect with me::
+### Connect with me:
 [![Connect with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dlaracarvajal/)
 
 ### Languages and Tools:
