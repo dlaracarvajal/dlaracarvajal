@@ -4,8 +4,6 @@
 
 - 🤝 Seeking new opportunities and would love to collaborate on **interesting projects**
 
-- 🌱 Expanding my skills by learning **Python**
-
 - 📫 Reach out to me at <a href="mailto:d.lara.carvajal@gmail.com">d.lara.carvajal@gmail.com</a>
 
 - 📄 Let's connect on LinkedIn! You can find me at [https://www.linkedin.com/in/dlaracarvajal/](https://www.linkedin.com/in/dlaracarvajal/)
