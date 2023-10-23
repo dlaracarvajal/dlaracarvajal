@@ -2,6 +2,8 @@
 <h3 align="center">A Full-Stack Developer based in Vancouver, BC</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaracarvajal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="dlaracarvajal" /></p>
 
+- 🚀 Building: **Remedi App** – Connecting people to pharmacy deals nearby
+  
 - 🤝 Seeking new opportunities and would love to collaborate on **interesting projects**
 
 - 📫 Reach out to me at <a href="mailto:d.lara.carvajal@gmail.com">d.lara.carvajal@gmail.com</a>
