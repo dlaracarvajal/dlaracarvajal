@@ -35,4 +35,5 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/ca/products/illustrator.html)
 [![Languages and Tools](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/ca/products/photoshop.html)
         
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlaracarvajal&theme=dark" alt="dlaracarvajal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlaracarvajal&theme=dark" alt="dlaracarvajal" /></p>
+
