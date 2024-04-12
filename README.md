@@ -6,7 +6,7 @@
 
 - 🌐 Visit my portfolio **[here](https://www.diegolara.dev)**
 
-- 🚀 Currently building: **Remedi App** – Connecting people to pharmacy deals nearby.
+- 🚀 Working as a **Web Developer** at **Rose Agency**.
   
 - 🤝 Open for collaborations in **innovative projects**.
 
